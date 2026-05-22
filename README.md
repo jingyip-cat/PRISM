@@ -4,12 +4,15 @@
 
 ### Pareto-Efficient Retrieval over Intent-Aware Structured Memory for Long-Horizon Agents
 
+[![Project Page](https://img.shields.io/badge/🌐_Project_Page-PRISM-1f5fa8.svg?style=flat&labelColor=555)](https://jingyip-cat.github.io/PRISM/)
 [![arXiv](https://img.shields.io/badge/arXiv-2605.12260-b31b1b.svg?style=flat&labelColor=555)](https://arxiv.org/abs/2605.12260)
 [![Python](https://img.shields.io/badge/python-3.10+-3776A9.svg?style=flat&labelColor=555&logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-2EA44F.svg?style=flat&labelColor=555)](LICENSE)
 [![Benchmark: LoCoMo](https://img.shields.io/badge/benchmark-LoCoMo-14B8A6.svg?style=flat&labelColor=555)](https://github.com/snap-research/locomo)
 
 **A training-free, retrieval-side memory framework that hits high answer accuracy at an order-of-magnitude smaller context budget.**
+
+🌐 [**Project Page**](https://jingyip-cat.github.io/PRISM/) &nbsp;|&nbsp; 📄 [**Paper**](https://arxiv.org/abs/2605.12260)
 
 [Overview](#-overview) • [Results](#-results) • [Install](#-installation) • [Quick Start](#-quick-start) • [How It Works](#-how-it-works) • [Reproducing the Paper](#-reproducing-the-paper) • [Citation](#-citation)
 
@@ -90,7 +93,7 @@ Each row changes **one** flag relative to PRISM; all variants reuse the same ing
 
 ```bash
 # Clone
-git clone https://github.com/jingyip-cat/PRISM.git
+git clone https://github.com/<your-username>/PRISM.git
 cd PRISM
 
 # (recommended) create a virtual environment
